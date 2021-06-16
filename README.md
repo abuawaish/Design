@@ -1,5 +1,5 @@
 # Design
-New design thorough python programming with the help of turtle module
+# New design thorough python programming with the help of turtle module
 import turtle
 ls=["red","yellow","green","cyan","blue","white"]
 t=turtle.Turtle()
